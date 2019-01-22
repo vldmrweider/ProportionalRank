@@ -41,6 +41,8 @@ int main() {
     //account Rate
     std::map<std::string, double> accountRate;
     std::map<std::string,double> accountPostRate;
+    //comment case
+    std::map<std::string,double> accountCommentRate;
 
 
     //load account stake
